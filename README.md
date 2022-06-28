@@ -1,1 +1,1 @@
-delete automatic message + no grbaber
+delete automatic message + no grabber
